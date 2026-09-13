@@ -1,0 +1,6 @@
+# Inside your .gitignore file
+.venv/
+__pycache__/
+*.pyc
+.env
+/.local
