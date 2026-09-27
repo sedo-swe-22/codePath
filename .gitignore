@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .env
 /.local
+.claude-config
+/ai110-module1show-gameglitchinvestigator-starter/
+/ai110-module1tinker-playlistchaos-starter/
+/ai110-tinker-studysync-starter/
